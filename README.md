@@ -22,3 +22,9 @@ Parts:
 32x cherry compatible keyswitches
 32x cherry compatible relegendable keycaps
 1x microcontroller (TBC which type, prefer rp2040 but may have to be 32u4)
+
+
+Software:
+
+QMK Firmware Joystick support sounds the best! 
+https://docs.qmk.fm/features/joystick
